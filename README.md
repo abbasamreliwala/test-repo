@@ -1,2 +1,2 @@
 # test-repo
-test jenkins test
+test jenkins test elastic beanstalk
