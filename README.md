@@ -1,2 +1,2 @@
 # test-repo
-test jenkins
+test jenkins test
